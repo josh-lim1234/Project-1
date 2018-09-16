@@ -1,9 +1,8 @@
 # Project 1
-+ By: *your first and last name*
-+ Production URL: <http://p1.yourdomain.com>
++ By: Josh Lim
++ Production URL: http://project1.jlimo.me/
 
 ## Outside resources
-*your list of outside resources go here*
+No outside resources
 
 ## Notes for instructor
-*any notes for me to refer to while grading; if none, omit this section*
