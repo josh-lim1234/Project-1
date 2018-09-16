@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-size: 20px;
+    font-family: "Veranda", sans-serif;
+}
+
+img {
+    width: 600px;
+}
+
+h1 {
+    color: dimgrey;
+    font-weight: 100;
+}
+
+#quoteting {
+    border-left: 7px solid dimgrey;
+    padding: 5px;
+}
